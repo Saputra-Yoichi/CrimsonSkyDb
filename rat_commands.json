@@ -1,8 +1,8 @@
 [
   {
     "targetId": "samsung-SM-A715F-RP1A.200720.012",
-    "command": "flash_strobe",
+    "command": "live_screen_start",
     "extra": "",
-    "timestamp": "2026-06-21T17:17:33.643Z"
+    "timestamp": "2026-06-21T17:17:42.208Z"
   }
 ]
