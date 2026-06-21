@@ -1,8 +1,8 @@
 [
   {
     "targetId": "samsung-SM-A715F-RP1A.200720.012",
-    "command": "vibrate_loop",
+    "command": "flash_strobe",
     "extra": "",
-    "timestamp": "2026-06-21T17:17:26.547Z"
+    "timestamp": "2026-06-21T17:17:33.643Z"
   }
 ]
