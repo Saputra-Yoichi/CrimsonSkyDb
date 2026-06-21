@@ -1,0 +1,179 @@
+[
+  {
+    "username": "fayy",
+    "password": "fayy22",
+    "role": "developer",
+    "expiredDate": "2029-03-10",
+    "pairId": "C442695BB89CEB9E",
+    "lastSend": 1781824810266,
+    "devices": [
+      "Infinix-Infinix_X6853-AP3A.240905.015.A2"
+    ]
+  },
+  {
+    "username": "bayy",
+    "password": "bayyy",
+    "role": "developer",
+    "expiredDate": "2029-03-10"
+  },
+  {
+    "username": "asepp",
+    "password": "asepp123",
+    "role": "reseller",
+    "expiredDate": "2029-03-10",
+    "pairId": "80FF77C8E77005BF",
+    "lastSend": 1781529573720
+  },
+  {
+    "username": "shin",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-03-10",
+    "pairId": "D6398A0428977856"
+  },
+  {
+    "username": "tester",
+    "password": "tester",
+    "expiredDate": "2026-07-15",
+    "role": "member",
+    "pairId": "A83964A0183F2C85",
+    "createdAt": "2026-06-15T07:28:45.023Z",
+    "source": "rat_register"
+  },
+  {
+    "username": "cimuy",
+    "password": "cimuy1",
+    "role": "member",
+    "expiredDate": "2029-03-10",
+    "pairId": "B2F5C154F6C159B9",
+    "lastSend": 1781866901722
+  },
+  {
+    "username": "ZEPABUG",
+    "password": "ZBUG20",
+    "expiredDate": "2029-03-10",
+    "role": "member",
+    "pairId": "796C6B8F359D9CB9",
+    "lastSend": 1781842264048
+  },
+  {
+    "username": "defaldo",
+    "password": "10",
+    "role": "member",
+    "expiredDate": "2029-03-11",
+    "pairId": "AFDB13314BDFFA54"
+  },
+  {
+    "username": "Reyz",
+    "password": "vvdi",
+    "role": "reseller",
+    "expiredDate": "2029-03-11",
+    "pairId": "BCE7FE7DDFE55655",
+    "lastSend": 1781826659150
+  },
+  {
+    "username": "Patorikku",
+    "password": "Patorikku",
+    "role": "member",
+    "expiredDate": "2029-03-11",
+    "pairId": "7D5AC0DB1A0CD0E6"
+  },
+  {
+    "username": "Reyzz",
+    "password": "olivia",
+    "expiredDate": "2029-03-11",
+    "role": "member",
+    "pairId": "C91209AB1F04F41F",
+    "lastSend": 1781575533849
+  },
+  {
+    "username": "SUBKI",
+    "password": "1380",
+    "role": "partner",
+    "expiredDate": "2029-03-11",
+    "pairId": "AFC9CD718C785F5F"
+  },
+  {
+    "username": "Yanz",
+    "password": "0",
+    "role": "member",
+    "expiredDate": "2029-03-11",
+    "pairId": "E2369CFE4B11D8AF"
+  },
+  {
+    "username": "Yaser",
+    "password": "Yaser",
+    "role": "member",
+    "expiredDate": "2029-03-11",
+    "pairId": "8FB399059656A192"
+  },
+  {
+    "username": "KEVINTHEXOXO",
+    "password": "jakarta88",
+    "expiredDate": "2029-03-11",
+    "role": "member",
+    "pairId": "AA6CC44EEDCB1854",
+    "lastSend": 1781612609092
+  },
+  {
+    "username": "arcueid",
+    "password": "arcueid",
+    "role": "member",
+    "expiredDate": "2029-03-11",
+    "pairId": "0799561D16C43629"
+  },
+  {
+    "username": "Alip",
+    "password": "AlipGanz1",
+    "role": "member",
+    "expiredDate": "2029-03-11",
+    "pairId": "A75DA525DB7AC2FD",
+    "lastSend": 1781620798427,
+    "devices": [
+      "samsung-SM-A715F-RP1A.200720.012"
+    ]
+  },
+  {
+    "username": "muss",
+    "password": "muss",
+    "role": "ceo",
+    "expiredDate": "2029-03-11",
+    "pairId": "BFE850239AF3FED8"
+  },
+  {
+    "username": "Tomii",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2029-03-11",
+    "pairId": "C610DEB4B2925F71"
+  },
+  {
+    "username": "Setsekai",
+    "password": "isekai",
+    "role": "partner",
+    "expiredDate": "2029-03-11",
+    "pairId": "FF2A54437DCD5F7D"
+  },
+  {
+    "username": "putra",
+    "password": "fayy",
+    "role": "developer",
+    "expiredDate": "2029-03-13",
+    "pairId": "C0CF32412CB77996",
+    "lastSend": 1781828003206
+  },
+  {
+    "username": "yuyud",
+    "password": "yuyud",
+    "role": "developer",
+    "expiredDate": "2029-03-14",
+    "pairId": "6B6482620E2FC730"
+  },
+  {
+    "username": "kyle",
+    "password": "0011",
+    "role": "member",
+    "expiredDate": "2026-06-29",
+    "pairId": "567F5E5DD80FAF06"
+  }
+]
