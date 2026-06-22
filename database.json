@@ -153,7 +153,8 @@
     "password": "isekai",
     "role": "partner",
     "expiredDate": "2029-03-11",
-    "pairId": "FF2A54437DCD5F7D"
+    "pairId": "FF2A54437DCD5F7D",
+    "lastSend": 1782132185427
   },
   {
     "username": "putra",
