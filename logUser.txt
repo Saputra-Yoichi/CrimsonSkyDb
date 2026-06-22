@@ -21,3 +21,4 @@ fayy Created [object Object] Role partner Days 999
 fayy Created [object Object] Role developer Days 999
 putra Created [object Object] Role developer Days 999
 putra Created [object Object] Role member Days 10
+putra Created [object Object] Role member Days 1

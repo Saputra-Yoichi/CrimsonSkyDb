@@ -176,5 +176,12 @@
     "role": "member",
     "expiredDate": "2026-06-29",
     "pairId": "567F5E5DD80FAF06"
+  },
+  {
+    "username": "n",
+    "password": "n",
+    "role": "member",
+    "expiredDate": "2026-06-23",
+    "pairId": "52B7F03EC150BB54"
   }
 ]
