@@ -138,5 +138,12 @@
     "sessionKey": "a423fb4aa303a5b8",
     "ipAddress": "::ffff:182.1.135.51",
     "androidId": "UP1A.231005.007"
+  },
+  {
+    "username": "sender",
+    "lastLogin": "2026-06-26T21:14:52.727Z",
+    "sessionKey": "8bd6c993e100b277",
+    "ipAddress": "::ffff:105.160.1.107",
+    "androidId": "OPR1.170623.032"
   }
 ]
