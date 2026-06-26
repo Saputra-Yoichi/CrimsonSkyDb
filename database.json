@@ -177,5 +177,12 @@
     "role": "member",
     "expiredDate": "2026-06-23",
     "pairId": "52B7F03EC150BB54"
+  },
+  {
+    "username": "shin",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2029-03-21",
+    "pairId": "9A7C2742F4EAEC6D"
   }
 ]
