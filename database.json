@@ -184,5 +184,12 @@
     "role": "member",
     "expiredDate": "2029-03-21",
     "pairId": "9A7C2742F4EAEC6D"
+  },
+  {
+    "username": "sayangvina",
+    "password": "123",
+    "role": "developer",
+    "expiredDate": "2029-03-21",
+    "pairId": "74A21856E70AC46A"
   }
 ]
