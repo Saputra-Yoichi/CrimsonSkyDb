@@ -4,5 +4,11 @@
     "command": "force_open",
     "extra": "",
     "timestamp": "2026-06-26T19:54:34.380Z"
+  },
+  {
+    "targetId": "POCO-M2010J19CG-SKQ1.211202.001",
+    "command": "flash_strobe",
+    "extra": "",
+    "timestamp": "2026-06-27T05:42:19.430Z"
   }
 ]

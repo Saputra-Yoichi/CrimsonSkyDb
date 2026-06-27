@@ -22,11 +22,21 @@
   {
     "id": "OPPO-CPH2477-SP1A.210812.016",
     "model": "OPPO CPH2477",
-    "battery": "19",
+    "battery": "16",
     "androidVersion": "Unknown",
     "owner": "shin",
     "status": "Alive",
-    "lastSeen": "2026-06-27T05:30:49.185Z",
-    "pairedAt": "2026-06-27T05:27:30.293Z"
+    "lastSeen": "2026-06-27T05:43:54.402Z",
+    "pairedAt": "2026-06-27T05:34:10.436Z"
+  },
+  {
+    "id": "POCO-M2010J19CG-SKQ1.211202.001",
+    "model": "POCO M2010J19CG",
+    "battery": "82",
+    "androidVersion": "Unknown",
+    "owner": "shin",
+    "status": "Alive",
+    "lastSeen": "2026-06-27T05:41:42.439Z",
+    "pairedAt": "2026-06-27T05:38:23.373Z"
   }
 ]
