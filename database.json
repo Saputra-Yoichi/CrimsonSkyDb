@@ -183,7 +183,10 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2029-03-21",
-    "pairId": "9A7C2742F4EAEC6D"
+    "pairId": "9A7C2742F4EAEC6D",
+    "devices": [
+      "OPPO-CPH2477-SP1A.210812.016"
+    ]
   },
   {
     "username": "sayangvina",
@@ -206,5 +209,14 @@
     "role": "developer",
     "expiredDate": "2029-03-21",
     "pairId": "C51DE6F5B456A1A9"
+  },
+  {
+    "username": "YTTAxmystrius",
+    "password": "ADEGGWP1",
+    "expiredDate": "2026-07-27",
+    "role": "member",
+    "pairId": "49F1DD90697A3CC6",
+    "createdAt": "2026-06-27T05:26:15.535Z",
+    "source": "rat_register"
   }
 ]
