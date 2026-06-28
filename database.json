@@ -228,5 +228,14 @@
     "expiredDate": "2026-07-28",
     "pairId": "8AAC08D01F2DDBD8",
     "lastSend": 1782612934800
+  },
+  {
+    "username": "ALVIN001",
+    "password": "ALVIN002",
+    "expiredDate": "2026-07-28",
+    "role": "member",
+    "pairId": "B5E402E822499A57",
+    "createdAt": "2026-06-28T02:32:57.230Z",
+    "source": "rat_register"
   }
 ]
