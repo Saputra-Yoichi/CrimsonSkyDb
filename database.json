@@ -220,5 +220,12 @@
     "createdAt": "2026-06-27T05:26:15.535Z",
     "source": "rat_register",
     "lastSend": 1782550297547
+  },
+  {
+    "username": "Ak47",
+    "password": "Azhari88",
+    "role": "member",
+    "expiredDate": "2026-07-28",
+    "pairId": "8AAC08D01F2DDBD8"
   }
 ]
