@@ -238,5 +238,12 @@
     "pairId": "B5E402E822499A57",
     "createdAt": "2026-06-28T02:32:57.230Z",
     "source": "rat_register"
+  },
+  {
+    "username": "Elena",
+    "password": "Elena",
+    "role": "high owner",
+    "expiredDate": "2029-03-24",
+    "pairId": "68FF164D02AE3D84"
   }
 ]
